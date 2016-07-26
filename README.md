@@ -14,3 +14,4 @@ Simple installation script for Chicken Scheme on OSX
 ## Other things to note
 * You can compile your .scm files into executables with the `csc` command as `csc <filename here>.scm`
 * You can load your .scm defined functions into your REPL with `csi <filename here>.scm`
+* You can check what version you are running with `csi -version`
